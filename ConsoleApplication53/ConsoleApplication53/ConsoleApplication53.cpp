@@ -1,10 +1,14 @@
-﻿//#include <iostream>
+#include <iostream>
 //#include <vector>
 //#include <sstream>
 //#include <set>
 //#include <algorithm>
 //#include <locale>
-//
+#include <string>
+#include <iomanip>
+#include <clocale>
+
+
 //using namespace std;
 //
 //int main() {
@@ -73,11 +77,6 @@
 //    return 0;
 //}
 
-
-#include <iostream>
-#include <string>
-#include <iomanip>
-#include <clocale>
 
 using namespace std;
 
